@@ -1,9 +1,12 @@
 # HTM-PyGame-2D-object-recognition
 
-python main2.py
+### Install
 
+    pip install -r requirements.txt
 
+### Run
 
+    python main2.py
 
 This was writen rought and dirty, two things so far should happen
 1) you should see the printed map in a normal python array
